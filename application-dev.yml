@@ -1,3 +1,4 @@
+from:github
 info:
   name: ${spring.application.name}
   component: Feign Application
